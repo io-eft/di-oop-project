@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="BlackCard.cpp" />
+		<Unit filename="BlackCard.hpp" />
+		<Unit filename="Card.cpp" />
+		<Unit filename="Card.hpp" />
+		<Unit filename="DeckBuilder.cpp" />
+		<Unit filename="DeckBuilder.hpp" />
+		<Unit filename="Follower.cpp" />
+		<Unit filename="Follower.hpp" />
+		<Unit filename="GameBoard.cpp" />
+		<Unit filename="GameBoard.hpp" />
+		<Unit filename="GreenCard.cpp" />
+		<Unit filename="GreenCard.hpp" />
+		<Unit filename="Holding.cpp" />
+		<Unit filename="Holding.hpp" />
+		<Unit filename="Item.cpp" />
+		<Unit filename="Item.hpp" />
+		<Unit filename="Personality.cpp" />
+		<Unit filename="Personality.hpp" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.hpp" />
+		<Unit filename="StrongHold.cpp" />
+		<Unit filename="StrongHold.hpp" />
+		<Unit filename="TypeConverter.cpp" />
+		<Unit filename="TypeConverter.hpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

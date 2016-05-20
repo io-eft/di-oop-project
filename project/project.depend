@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1363199071 source:c:\users\io\documents\io\oop\class project\project\card.cpp
+	"Card.hpp"
+
+1363198976 c:\users\io\documents\io\oop\class project\project\card.hpp
+	<iostream>
+
+1363229405 source:c:\users\io\documents\io\oop\class project\project\holding.cpp
+	"Holding.hpp"
+
+1362192299 c:\users\io\documents\io\oop\class project\project\card.h
+
+1362997314 c:\users\io\documents\io\oop\class project\project\blackcard.hpp
+	"Card.hpp"
+
+1363229392 c:\users\io\documents\io\oop\class project\project\holding.hpp
+	"BlackCard.hpp"
+
+1363140271 source:c:\users\io\documents\io\oop\class project\project\greencard.cpp
+	"GreenCard.hpp"
+
+1362997314 c:\users\io\documents\io\oop\class project\project\greencard.hpp
+	"Card.hpp"
+	<sstream>
+
+1363005736 source:c:\users\io\documents\io\oop\class project\project\follower.cpp
+	"Follower.hpp"
+
+1363005736 source:c:\users\io\documents\io\oop\class project\project\item.cpp
+	"Item.hpp"
+
+1363005736 c:\users\io\documents\io\oop\class project\project\item.hpp
+	"GreenCard.hpp"
+
+1363005736 c:\users\io\documents\io\oop\class project\project\follower.hpp
+	"GreenCard.hpp"
+
+1363285601 source:c:\users\io\documents\io\oop\class project\project\personality.cpp
+	"Personality.hpp"
+
+1363222190 c:\users\io\documents\io\oop\class project\project\personality.hpp
+	"BlackCard.hpp"
+	"Item.hpp"
+	"Follower.hpp"
+	<vector>
+
+1363287221 source:c:\users\io\documents\io\oop\class project\project\main.cpp
+	<iostream>
+	"BlackCard.hpp"
+	"Card.hpp"
+	"Follower.hpp"
+	"GreenCard.hpp"
+	"Item.hpp"
+	"Personality.hpp"
+	"Holding.hpp"
+	"Player.hpp"
+	"GameBoard.hpp"
+	"DeckBuilder.hpp"
+	"TypeConverter.hpp"
+	"StrongHold.hpp"
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<string>
+
+1362966730 source:c:\users\io\documents\io\oop\class project\project\blackcard.cpp
+	"BlackCard.hpp"
+
+1362419597 source:c:\users\io\documents\io\oop\class project\project\deckbuilder.cpp
+	"DeckBuilder.hpp"
+
+1362997062 c:\users\io\documents\io\oop\class project\project\deckbuilder.hpp
+	<list>
+	<vector>
+	<iostream>
+	<algorithm>
+	<functional>
+	<ctime>
+	<cstdlib>
+	"Personality.hpp"
+	"Holding.hpp"
+
+1362648521 source:c:\users\io\documents\io\oop\class project\project\typeconverter.cpp
+	"TypeConverter.hpp"
+
+1362860446 c:\users\io\documents\io\oop\class project\project\typeconverter.hpp
+	"Personality.hpp"
+	"Holding.hpp"
+	"Follower.hpp"
+
+1363231285 source:c:\users\io\documents\io\oop\class project\project\player.cpp
+	"Player.hpp"
+	"TypeConverter.hpp"
+	<list>
+	<vector>
+
+1363229392 c:\users\io\documents\io\oop\class project\project\player.hpp
+	"DeckBuilder.hpp"
+	"TypeConverter.hpp"
+	"Holding.hpp"
+	"Item.hpp"
+	"Personality.hpp"
+	"Follower.hpp"
+	"StrongHold.hpp"
+	<iostream>
+	<sstream>
+
+1363279556 source:c:\users\io\documents\io\oop\class project\project\gameboard.cpp
+	"GameBoard.hpp"
+
+1363047594 c:\users\io\documents\io\oop\class project\project\gameboard.hpp
+	"DeckBuilder.hpp"
+	"TypeConverter.hpp"
+	"Holding.hpp"
+	"Item.hpp"
+	"Personality.hpp"
+	"Follower.hpp"
+	"Player.hpp"
+	<iostream>
+
+1362950331 source:c:\users\io\documents\io\oop\class project\project\stronghold.cpp
+	"StrongHold.hpp"
+
+1362967741 c:\users\io\documents\io\oop\class project\project\stronghold.hpp
+	"Holding.hpp"
+	<cstdlib>
+

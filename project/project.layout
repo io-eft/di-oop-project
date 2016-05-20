@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="BlackCard.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="24" topLine="0" />
+	</File>
+	<File name="BlackCard.hpp" open="1" top="0" tabpos="3">
+		<Cursor position="162" topLine="0" />
+	</File>
+	<File name="Card.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="195" topLine="0" />
+	</File>
+	<File name="Card.hpp" open="1" top="0" tabpos="1">
+		<Cursor position="363" topLine="7" />
+	</File>
+	<File name="DeckBuilder.cpp" open="1" top="0" tabpos="23">
+		<Cursor position="2573" topLine="20" />
+	</File>
+	<File name="DeckBuilder.hpp" open="1" top="0" tabpos="22">
+		<Cursor position="71" topLine="32" />
+	</File>
+	<File name="Follower.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="185" topLine="49" />
+	</File>
+	<File name="Follower.hpp" open="1" top="0" tabpos="15">
+		<Cursor position="137" topLine="0" />
+	</File>
+	<File name="GameBoard.cpp" open="1" top="0" tabpos="20">
+		<Cursor position="3280" topLine="139" />
+	</File>
+	<File name="GameBoard.hpp" open="1" top="0" tabpos="19">
+		<Cursor position="866" topLine="9" />
+	</File>
+	<File name="GreenCard.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="1908" topLine="38" />
+	</File>
+	<File name="GreenCard.hpp" open="1" top="0" tabpos="11">
+		<Cursor position="792" topLine="9" />
+	</File>
+	<File name="Holding.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="9024" topLine="200" />
+	</File>
+	<File name="Holding.hpp" open="1" top="0" tabpos="7">
+		<Cursor position="545" topLine="0" />
+	</File>
+	<File name="Item.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="2074" topLine="13" />
+	</File>
+	<File name="Item.hpp" open="1" top="0" tabpos="13">
+		<Cursor position="347" topLine="0" />
+	</File>
+	<File name="Personality.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="8025" topLine="279" />
+	</File>
+	<File name="Personality.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="1570" topLine="37" />
+	</File>
+	<File name="Player.cpp" open="1" top="1" tabpos="18">
+		<Cursor position="7724" topLine="514" />
+	</File>
+	<File name="Player.hpp" open="1" top="0" tabpos="17">
+		<Cursor position="452" topLine="20" />
+	</File>
+	<File name="StrongHold.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="115" topLine="0" />
+	</File>
+	<File name="StrongHold.hpp" open="1" top="0" tabpos="9">
+		<Cursor position="522" topLine="4" />
+	</File>
+	<File name="TypeConverter.cpp" open="1" top="0" tabpos="25">
+		<Cursor position="348" topLine="0" />
+	</File>
+	<File name="TypeConverter.hpp" open="1" top="0" tabpos="24">
+		<Cursor position="190" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="21">
+		<Cursor position="1048" topLine="10" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1362966730 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\blackcard.cpp
+	"BlackCard.hpp"
+
+1362997314 c:\users\io\documents\io\oop\pvp test\pvp\pvp\blackcard.hpp
+	"Card.hpp"
+
+1363198976 c:\users\io\documents\io\oop\pvp test\pvp\pvp\card.hpp
+	<iostream>
+
+1363199071 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\card.cpp
+	"Card.hpp"
+
+1362419597 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\deckbuilder.cpp
+	"DeckBuilder.hpp"
+
+1362997062 c:\users\io\documents\io\oop\pvp test\pvp\pvp\deckbuilder.hpp
+	<list>
+	<vector>
+	<iostream>
+	<algorithm>
+	<functional>
+	<ctime>
+	<cstdlib>
+	"Personality.hpp"
+	"Holding.hpp"
+
+1363222190 c:\users\io\documents\io\oop\pvp test\pvp\pvp\personality.hpp
+	"BlackCard.hpp"
+	"Item.hpp"
+	"Follower.hpp"
+	<vector>
+
+1363005736 c:\users\io\documents\io\oop\pvp test\pvp\pvp\item.hpp
+	"GreenCard.hpp"
+
+1362997314 c:\users\io\documents\io\oop\pvp test\pvp\pvp\greencard.hpp
+	"Card.hpp"
+	<sstream>
+
+1363005736 c:\users\io\documents\io\oop\pvp test\pvp\pvp\follower.hpp
+	"GreenCard.hpp"
+
+1363229392 c:\users\io\documents\io\oop\pvp test\pvp\pvp\holding.hpp
+	"BlackCard.hpp"
+
+1363005736 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\follower.cpp
+	"Follower.hpp"
+
+1363140271 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\greencard.cpp
+	"GreenCard.hpp"
+
+1363229405 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\holding.cpp
+	"Holding.hpp"
+
+1363005736 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\item.cpp
+	"Item.hpp"
+
+1363232322 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\personality.cpp
+	"Personality.hpp"
+
+1363231285 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\player.cpp
+	"Player.hpp"
+	"TypeConverter.hpp"
+	<list>
+	<vector>
+
+1363229392 c:\users\io\documents\io\oop\pvp test\pvp\pvp\player.hpp
+	"DeckBuilder.hpp"
+	"TypeConverter.hpp"
+	"Holding.hpp"
+	"Item.hpp"
+	"Personality.hpp"
+	"Follower.hpp"
+	"StrongHold.hpp"
+	<iostream>
+	<sstream>
+
+1362860446 c:\users\io\documents\io\oop\pvp test\pvp\pvp\typeconverter.hpp
+	"Personality.hpp"
+	"Holding.hpp"
+	"Follower.hpp"
+
+1362967741 c:\users\io\documents\io\oop\pvp test\pvp\pvp\stronghold.hpp
+	"Holding.hpp"
+	<cstdlib>
+
+1362950331 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\stronghold.cpp
+	"StrongHold.hpp"
+
+1362648521 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\typeconverter.cpp
+	"TypeConverter.hpp"
+
+1363288179 source:c:\users\io\documents\io\oop\pvp test\pvp\pvp\gameboard.cpp
+	"GameBoard.hpp"
+
+1363288164 c:\users\io\documents\io\oop\pvp test\pvp\pvp\gameboard.hpp
+	"DeckBuilder.hpp"
+	"TypeConverter.hpp"
+	"Holding.hpp"
+	"Item.hpp"
+	"Personality.hpp"
+	"Follower.hpp"
+	"Player.hpp"
+	<iostream>
+
